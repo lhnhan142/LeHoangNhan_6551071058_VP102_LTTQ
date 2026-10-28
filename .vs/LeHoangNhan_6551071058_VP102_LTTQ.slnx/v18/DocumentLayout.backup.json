@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|d:\\download\\ki\u1EC3m tra gi\u1EEFa k\u1EF3 l\u1EADp tr\u00ECnh tr\u1EF1c quan\\lehoangnhan_6551071058_vp102_lttq\\lehoangnhan_6551071058_vp102_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|solutionrelative:lehoangnhan_6551071058_vp102_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|d:\\download\\ki\u1EC3m tra gi\u1EEFa k\u1EF3 l\u1EADp tr\u00ECnh tr\u1EF1c quan\\lehoangnhan_6551071058_vp102_lttq\\lehoangnhan_6551071058_vp102_lttq\\models\\dulieucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|solutionrelative:lehoangnhan_6551071058_vp102_lttq\\models\\dulieucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|d:\\download\\ki\u1EC3m tra gi\u1EEFa k\u1EF3 l\u1EADp tr\u00ECnh tr\u1EF1c quan\\lehoangnhan_6551071058_vp102_lttq\\lehoangnhan_6551071058_vp102_lttq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|solutionrelative:lehoangnhan_6551071058_vp102_lttq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|d:\\download\\ki\u1EC3m tra gi\u1EEFa k\u1EF3 l\u1EADp tr\u00ECnh tr\u1EF1c quan\\lehoangnhan_6551071058_vp102_lttq\\lehoangnhan_6551071058_vp102_lttq\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|solutionrelative:lehoangnhan_6551071058_vp102_lttq\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|d:\\download\\ki\u1EC3m tra gi\u1EEFa k\u1EF3 l\u1EADp tr\u00ECnh tr\u1EF1c quan\\lehoangnhan_6551071058_vp102_lttq\\lehoangnhan_6551071058_vp102_lttq\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|solutionrelative:lehoangnhan_6551071058_vp102_lttq\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|d:\\download\\ki\u1EC3m tra gi\u1EEFa k\u1EF3 l\u1EADp tr\u00ECnh tr\u1EF1c quan\\lehoangnhan_6551071058_vp102_lttq\\lehoangnhan_6551071058_vp102_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C3FF93E-83D7-4F97-BE2A-8067266B3E5E}|LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ.csproj|solutionrelative:lehoangnhan_6551071058_vp102_lttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs",
+              "RelativeDocumentMoniker": "LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs",
+              "ToolTip": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs",
+              "RelativeToolTip": "LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwDEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:07:21.458Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "LeHoangNhan_6551071058_VP102_LTTQ\\Models\\SinhVien.cs",
+              "ToolTip": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Models\\SinhVien.cs",
+              "RelativeToolTip": "LeHoangNhan_6551071058_VP102_LTTQ\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:32:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Program.cs",
+              "RelativeDocumentMoniker": "LeHoangNhan_6551071058_VP102_LTTQ\\Program.cs",
+              "ToolTip": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Program.cs",
+              "RelativeToolTip": "LeHoangNhan_6551071058_VP102_LTTQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:32:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\efpt.config.json",
+              "RelativeDocumentMoniker": "LeHoangNhan_6551071058_VP102_LTTQ\\efpt.config.json",
+              "ToolTip": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\efpt.config.json",
+              "RelativeToolTip": "LeHoangNhan_6551071058_VP102_LTTQ\\efpt.config.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-28T09:32:19.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DuLieuContext.cs",
+              "DocumentMoniker": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Models\\DuLieuContext.cs",
+              "RelativeDocumentMoniker": "LeHoangNhan_6551071058_VP102_LTTQ\\Models\\DuLieuContext.cs",
+              "ToolTip": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Models\\DuLieuContext.cs",
+              "RelativeToolTip": "LeHoangNhan_6551071058_VP102_LTTQ\\Models\\DuLieuContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwC0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:03:13.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs",
+              "RelativeDocumentMoniker": "LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs",
+              "ToolTip": "D:\\Download\\KI\u1EC2M TRA GI\u1EEEA K\u1EF2 L\u1EACP TR\u00CCNH TR\u1EF0C QUAN\\LeHoangNhan_6551071058_VP102_LTTQ\\LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs [Design]",
+              "RelativeToolTip": "LeHoangNhan_6551071058_VP102_LTTQ\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T09:02:43.645Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
